@@ -1,0 +1,7 @@
+{
+	"name": "Pk-Self-Hosted",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Selh Hosted IR"
+	}
+}

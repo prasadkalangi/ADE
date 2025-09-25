@@ -1,0 +1,9 @@
+{
+	"name": "PrasadKalDataFactory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "514fc197-f2ff-40ad-aa68-4ef312f32991",
+		"tenantId": "0876713d-a522-4b15-a887-3e9dacb1c635"
+	}
+}
